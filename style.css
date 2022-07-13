@@ -1,0 +1,29 @@
+body {background-color:black; font-family:arial; color: white}
+.maindiv{
+    background-color: white;
+    color :black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    /* text-align: center; */
+    align: center;
+}
+.subdiv{
+    margin: auto;
+    width: 75%;
+}
+.tab{
+    display: inline-block;
+    margin-left: 68px;
+}
+.tab1{
+    display: inline-block;
+    margin-left: 85px;
+}
+.tab2{
+    display: inline-block;
+    margin-left: 35px;
+}
+h1{color:grey; font-family:Verdana}
+
+
